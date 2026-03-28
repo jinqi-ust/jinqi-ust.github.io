@@ -2,9 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: IEDA/
-Engineer school/
-HKUST
+subtitle: >
+  IEDA /
+  Engineer School /
+  HKUST
 
 profile:
   align: right
