@@ -44,7 +44,7 @@ QI Jin
 ---
 
 ## Project Monitoring and Control under Uncertainty  
-不確定性下的項目監測及控制Leading
+不確定性下的項目監測及控制
 
 **RGC - Collaborative Research Fund**
 
