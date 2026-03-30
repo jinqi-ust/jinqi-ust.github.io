@@ -2,64 +2,41 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+description:
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Enhancing Classification Robustness through Satisficing Framework  
+基於滿意度框架的分類模型魯棒性優化
 
-{% else %}
+**RGC - General Research Fund**
 
-<!-- Display projects without categories -->
+**Project Team (HKUST)**  
+QI Jin (Lead)
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+**2026 -**
 
-  <!-- Generate cards for each project -->
+---
 
-{% if page.horizontal %}
+## Enhancing Hong Kong's Role in Sustainable Supply Chain Finance via Technology Transformation  
+通過技術轉型提升香港在可持續供應鏈金融中的的地位
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+**RGC - Theme-based Research Scheme**
+
+**Project Team (HKUST)**  
+ZHANG Jiheng (Lead), CHEN Kani, JIANG Jiashuo, JIANG Wei, LIU Jia, LIU Qian, LYU Guodong, QI Jin, QI Xiangtong, SHEN Yiwen, SO Richard Hau Yue, ZHANG Xiaowei, ZHENG Shaohui
+
+**2025 -**
+
+---
+
+## Algorithmic Bias, Economic Efficiency, and Social Welfare  
+算法偏見、經濟效率和社會福利
+
+**RGC - Collaborative Research Fund**
+
+**Project Team (HKUST)**  
+QI Jin
+
+**2025 -**
