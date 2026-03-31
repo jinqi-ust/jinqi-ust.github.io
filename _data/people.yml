@@ -1,35 +1,69 @@
 principal_investigator:
-  - name: Andreea Bobu
-    role: Assistant Professor
-    affiliation: Department of Aeronautics and Astronautics & CSAIL
+  - name: Jin Qi
+    role: Associate Professor
+    affiliation: Department of Industrial Engineering and Data Analytics
     image: andreea.jpg
-    website: https://example.com
-    scholar: https://scholar.google.com
-    twitter: https://twitter.com
-    email: mailto:someone@example.com
 
-postdocs:
-  - name: Nathan Dennler
-    role: Postdoc
+Current Research Postgraduate Supervision:
+  - name: Yihua He
+    role: PhD
     affiliation:
     image: nathan.jpg
-    website: https://example.com
-    scholar: https://scholar.google.com
-    email: mailto:someone@example.com
 
-  - name: Nick Walker
-    role: Postdoc
+  - name: Tong Lu
+    role: PhD
     affiliation:
     image: nick.jpg
-    website: https://example.com
-    scholar: https://scholar.google.com
-    email: mailto:someone@example.com
 
-phd_students:
-  - name: Michal Lewkowicz
-    role: PhD Student @ MIT (co-advised with Nick Roy)
+  - name: Yuhao Yan
+    role: PhD
+    affiliation:
+    image: nick.jpg
+
+  - name: Anh Quan NGUYEN
+    role: PhD
+    affiliation:
+    image: nick.jpg
+    
+  - name: Anjun Zhang
+    role: Mphil
+    affiliation:
+    image: nick.jpg
+    
+  - name: Xinyi Zhang
+    role: Mphil
+    affiliation:
+    image: nick.jpg
+
+Graduated Research Postgraduate Supervision:
+  - name: Chen Yang
+    role: PhD
     affiliation:
     image: michal.jpg
-    website: https://example.com
-    scholar: https://scholar.google.com
-    email: mailto:someone@example.com
+    
+  - name: Yuhan Liu
+    role: PhD (Co-supervisor)
+    affiliation:
+    image: michal.jpg
+    
+  - name: Jun Wang
+    role: PhD (Co-supervisor)
+    affiliation:
+    image: michal.jpg
+    
+  - name: Guodong He
+    role: PhD  (Co-supervisor)
+    affiliation:
+    image: michal.jpg
+    
+  - name: Nana Li
+    role: PhD  (Co-supervisor)
+    affiliation:
+    image: michal.jpg
+
+  - name: Ho Yin WAN
+    role: Mphil  (Co-supervisor)
+    affiliation:
+    image: michal.jpg
+    
+
