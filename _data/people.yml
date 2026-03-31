@@ -4,7 +4,7 @@ principal_investigator:
     affiliation: Department of Industrial Engineering and Data Analytics
     image: andreea.jpg
 
-Current Research Postgraduate Supervision:
+Current_Students:
   - name: Yihua He
     role: PhD
     affiliation:
@@ -35,7 +35,7 @@ Current Research Postgraduate Supervision:
     affiliation:
     image: nick.jpg
 
-Graduated Research Postgraduate Supervision:
+Graduated_Students:
   - name: Chen Yang
     role: PhD
     affiliation:
