@@ -69,12 +69,6 @@ nav_order: 4
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
-        <div class="person-links">
-          {% if person.website %}<a href="{{ person.website }}">⌂</a>{% endif %}
-          {% if person.scholar %}<a href="{{ person.scholar }}">🎓</a>{% endif %}
-          {% if person.twitter %}<a href="{{ person.twitter }}">𝕏</a>{% endif %}
-          {% if person.email %}<a href="{{ person.email }}">✉</a>{% endif %}
-        </div>
       </div>
     </div>
   {% endfor %}
@@ -93,11 +87,6 @@ nav_order: 4
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
-        <div class="person-links">
-          {% if person.website %}<a href="{{ person.website }}">⌂</a>{% endif %}
-          {% if person.scholar %}<a href="{{ person.scholar }}">🎓</a>{% endif %}
-          {% if person.email %}<a href="{{ person.email }}">✉</a>{% endif %}
-        </div>
       </div>
     </div>
   {% endfor %}
@@ -116,11 +105,6 @@ nav_order: 4
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
-        <div class="person-links">
-          {% if person.website %}<a href="{{ person.website }}">⌂</a>{% endif %}
-          {% if person.scholar %}<a href="{{ person.scholar }}">🎓</a>{% endif %}
-          {% if person.email %}<a href="{{ person.email }}">✉</a>{% endif %}
-        </div>
       </div>
     </div>
   {% endfor %}
