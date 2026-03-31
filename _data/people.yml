@@ -1,0 +1,35 @@
+principal_investigator:
+  - name: Andreea Bobu
+    role: Assistant Professor
+    affiliation: Department of Aeronautics and Astronautics & CSAIL
+    image: andreea.jpg
+    website: https://example.com
+    scholar: https://scholar.google.com
+    twitter: https://twitter.com
+    email: mailto:someone@example.com
+
+postdocs:
+  - name: Nathan Dennler
+    role: Postdoc
+    affiliation:
+    image: nathan.jpg
+    website: https://example.com
+    scholar: https://scholar.google.com
+    email: mailto:someone@example.com
+
+  - name: Nick Walker
+    role: Postdoc
+    affiliation:
+    image: nick.jpg
+    website: https://example.com
+    scholar: https://scholar.google.com
+    email: mailto:someone@example.com
+
+phd_students:
+  - name: Michal Lewkowicz
+    role: PhD Student @ MIT (co-advised with Nick Roy)
+    affiliation:
+    image: michal.jpg
+    website: https://example.com
+    scholar: https://scholar.google.com
+    email: mailto:someone@example.com
