@@ -75,8 +75,8 @@ nav_order: 4
 </div>
 
 <div class="people-section">
-  <h2>Postdocs</h2>
-  {% for person in site.data.people.postdocs %}
+  <h2>Current Research Postgraduate Supervision:</h2>
+  {% for person in site.data.people.Current Research Postgraduate Supervision: %}
     <div class="person-row">
       <div class="person-photo">
         <img src="{{ '/assets/img/' | append: person.image | relative_url }}" alt="{{ person.name }}">
@@ -93,8 +93,8 @@ nav_order: 4
 </div>
 
 <div class="people-section">
-  <h2>PhD Students</h2>
-  {% for person in site.data.people.phd_students %}
+  <h2>Graduated Research Postgraduate Supervision:</h2>
+  {% for person in site.data.people.Graduated Research Postgraduate Supervision:%}
     <div class="person-row">
       <div class="person-photo">
         <img src="{{ '/assets/img/' | append: person.image | relative_url }}" alt="{{ person.name }}">
