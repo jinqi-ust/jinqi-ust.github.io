@@ -3,7 +3,15 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <div style="line-height:1.35; font-weight:300; font-size:0.7rem; color:#666; margin-top:0.2rem; margin-bottom:0.7rem;">
+  <div style="
+    line-height:1.35;
+    font-weight:500;
+    font-size:0.8rem;
+    color:#888;
+    margin-top:0.2rem;
+    margin-bottom:0.7rem;
+    font-family: Georgia, 'Times New Roman', serif;
+  ">
     <p style="margin:0 0 0.12rem 0;">Department of Industrial Engineering and Decision Analytics</p>
     <p style="margin:0 0 0.12rem 0;">Hong Kong University of Science and Technology</p>
     <p style="margin:0;">Clear Water Bay, Kowloon, Hong Kong</p>
