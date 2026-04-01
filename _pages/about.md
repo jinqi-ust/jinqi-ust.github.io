@@ -7,7 +7,7 @@ subtitle: >
     line-height:1.35;
     font-weight:500;
     font-size:0.8rem;
-    color:#888;
+    color:#d1d1d1;
     margin-top:0.2rem;
     margin-bottom:0.7rem;
     font-family: Georgia, 'Times New Roman', serif;
