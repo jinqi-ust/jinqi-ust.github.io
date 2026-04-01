@@ -3,44 +3,29 @@ layout: page
 title: awards
 permalink: /awards/
 nav: true
-nav_order: 5
+nav_order: 4
 description:
 ---
 
-## 2025
+- **Gold Medals with Congratulations of the Jury (Gold +)**, 50th International Exhibition of Inventions Geneva (IEIG), 2025
 
-- **Gold Medals with Congratulations of the Jury (Gold +)**, 50th International Exhibition of Inventions Geneva (IEIG)
+- **Excellent Young Scholars**, NSFC, 2024
 
-## 2024
+- **First Prize**, CSASME Best Paper Award, 2022
 
-- **Excellent Young Scholars**, NSFC
+- **Finalist**, MSOM Best Operations Management Paper in Operations Research, 2021
 
-## 2022
+- **Second Place**, POMS-HK Best Student Paper Competition, Hong Kong, 2014, 2020
 
-- **First Prize**, CSASME Best Paper Award
+- **President’s Graduate Fellowship**, National University of Singapore, 2012
 
-## 2021
+- **Excellent Graduate**, Tsinghua University, 2006
 
-- **Finalist**, MSOM Best Operations Management Paper in Operations Research
+- **Excellent Students Leader**, Tsinghua University, 2006
 
-## 2020
+- **Team Champion in the National College Students Service Rifle Tournament** (member), 2005
 
-- **Second Place**, POMS-HK Best Student Paper Competition, Hong Kong
-
-## 2014
-
-- **Second Place**, POMS-HK Best Student Paper Competition, Hong Kong
-
-## 2012
-
-- **President’s Graduate Fellowship**, National University of Singapore
-
-## 2006
-
-- **Excellent Graduate**, Tsinghua University
-- **Excellent Students Leader**, Tsinghua University
-
-## 2005
+- **First Prize**, National Mathematics Olympics Contest, China, 2002
 
 - **Team Champion in the National College Students Service Rifle Tournament** (member)
 
