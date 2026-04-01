@@ -12,8 +12,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Tel (852) 2358 8238</p>
-    <p>Email jinqi@ust.hk</p>
+    <p>Tel: (852) 2358 8238</p>
+    <p>Email: jinqi@ust.hk</p>
+    <p>Office: HKUST Academic Building Room 5592</p>
+   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
