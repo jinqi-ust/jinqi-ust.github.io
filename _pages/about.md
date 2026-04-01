@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: >
   <p style="margin:0; line-height:1.3; font-weight:400;">Department of Industrial Engineering and Decision Analytics</p>
-  <p style="margin:0; line-height:1.3; font-weight:400;">Engineer School</p>
   <p style="margin:0; line-height:1.3; font-weight:400;">Hong Kong University of Science and Technology</p>
 
 profile:
