@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <p style="margin:0; line-height:1.3; font-weight:400;">Department of Industrial Engineering and Decision Analytics</p>
