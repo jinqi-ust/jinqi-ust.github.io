@@ -3,8 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <p style="margin:0; line-height:1.3; font-weight:400;">Department of Industrial Engineering and Decision Analytics</p>
-  <p style="margin:0 0 0.8rem 0; line-height:1.3; font-weight:400;">Hong Kong University of Science and Technology</p>
+  <div style="line-height:1.6; font-weight:200; margin-top:0.4rem;">
+    <p style="margin:0 0 0.35rem 0;">Department of Industrial Engineering and Decision Analytics</p>
+    <p style="margin:0 0 0.35rem 0;">Hong Kong University of Science and Technology</p>
+    <p style="margin:0;">Clear Water Bay, Kowloon, Hong Kong</p>
+  </div>
 
 profile:
   align: right
