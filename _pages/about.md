@@ -15,8 +15,8 @@ profile:
     <p>Tel (852) 2358 8238</p>
     <p>Email jinqi@ust.hk</p>
 
-selected_papers: flase # includes a list of papers marked as "selected={true}"
-social: flase # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
