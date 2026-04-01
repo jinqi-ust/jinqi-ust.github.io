@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  IEDA /
-  Engineer School /
-  HKUST
+  <p>Department of Industrial Engineering and Decision Analytics</p>
+  <p>Engineer School</p>
+  <p>Hong Kong University of Science and Technology</p>
 
 profile:
   align: right
