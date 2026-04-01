@@ -37,7 +37,4 @@ description:
 
 - **RGC General Research Fund**, *Enhancing Classification Robustness through Satisficing Framework*, 2026–2028 (PI)
 
-## 2015
-
-**HKUST Start-up Fund**  
-2015–2023 (**PI**)
+- **HKUST Start-up Fund**  2015–2023 (PI)
