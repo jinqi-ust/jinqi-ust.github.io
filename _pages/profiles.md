@@ -13,7 +13,7 @@ nav_order: 5
 
 .people-section h2 {
   color: #1e88e5;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1.55rem;
   margin-bottom: 1.1rem;
   line-height: 1.2;
@@ -28,7 +28,7 @@ nav_order: 5
 
 .person-photo img {
   width: 150px;
-  height: 150px;
+  height: 200px;
   object-fit: cover;
   border-radius: 16px;
 }
@@ -36,7 +36,7 @@ nav_order: 5
 .person-info h3 {
   margin: 0 0 0.22rem 0;
   font-size: 1.35rem;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.2;
 }
 
