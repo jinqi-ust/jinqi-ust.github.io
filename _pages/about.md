@@ -3,19 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <div style="
-    line-height:1.35;
-    font-weight:500;
-    font-size:0.8rem;
-    color:#d1d1d1;
-    margin-top:0.2rem;
-    margin-bottom:0.7rem;
-    font-family: Georgia, 'Times New Roman', serif;
-  ">
-    <p style="margin:0 0 0.12rem 0;">Department of Industrial Engineering and Decision Analytics</p>
-    <p style="margin:0 0 0.12rem 0;">Hong Kong University of Science and Technology</p>
-    <p style="margin:0;">Clear Water Bay, Kowloon, Hong Kong</p>
-  </div>
+  <span style="display:inline-block; line-height:1.35; font-weight:400; font-size:0.8rem; color:#9a9a9a; font-family: Georgia, 'Times New Roman', serif; margin-bottom:0.6rem;">
+    Department of Industrial Engineering and Decision Analytics<br>
+    Hong Kong University of Science and Technology<br>
+    Clear Water Bay, Kowloon, Hong Kong
+  </span>
 
 profile:
   align: right
