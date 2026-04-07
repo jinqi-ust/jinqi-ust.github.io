@@ -23,18 +23,27 @@ nav_order: 5
   margin-bottom: 1.6rem;
 }
 
-.person-info h3 {
-  margin: 0 0 0.22rem 0;
+.person-name-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 0.22rem;
+  flex-wrap: wrap;
+}
+
+.person-name-line h3 {
+  margin: 0;
   font-size: 1.35rem;
   font-weight: 400;
   line-height: 1.2;
 }
 
 .person-role {
-  font-style: italic;
+  font-style: normal;
   font-size: 1.02rem;
-  margin-bottom: 0.22rem;
+  margin: 0;
   line-height: 1.35;
+  color: #555;
 }
 
 .person-affiliation {
@@ -56,8 +65,10 @@ nav_order: 5
   {% for person in site.data.people.principal_investigator %}
     <div class="person-row">
       <div class="person-info">
-        <h3>{{ person.name }}</h3>
-        <div class="person-role">{{ person.role }}</div>
+        <div class="person-name-line">
+          <h3>{{ person.name }}</h3>
+          <span class="person-role">{{ person.role }}</span>
+        </div>
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
@@ -71,8 +82,10 @@ nav_order: 5
   {% for person in site.data.people.Current_Students %}
     <div class="person-row">
       <div class="person-info">
-        <h3>{{ person.name }}</h3>
-        <div class="person-role">{{ person.role }}</div>
+        <div class="person-name-line">
+          <h3>{{ person.name }}</h3>
+          <span class="person-role">{{ person.role }}</span>
+        </div>
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
@@ -86,8 +99,10 @@ nav_order: 5
   {% for person in site.data.people.Graduated_Students %}
     <div class="person-row">
       <div class="person-info">
-        <h3>{{ person.name }}</h3>
-        <div class="person-role">{{ person.role }}</div>
+        <div class="person-name-line">
+          <h3>{{ person.name }}</h3>
+          <span class="person-role">{{ person.role }}</span>
+        </div>
         {% if person.affiliation %}
           <div class="person-affiliation">{{ person.affiliation }}</div>
         {% endif %}
