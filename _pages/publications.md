@@ -17,7 +17,7 @@ nav_order: 2
 <h2>Accepted</h2>
 {% bibliography --query @*[note=Accepted] --sort-by year --order descending %}
 
-<h2>Under Review</h2>
+<h2 style="margin-top: 2.5rem;">Under Review</h2>
 {% bibliography --query @*[note=Under Review] %}
 
 </div>
