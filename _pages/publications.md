@@ -18,7 +18,7 @@ nav_order: 2
 {% bibliography --query @*[note=Accepted] --sort-by year --order descending %}
 
 <h2>Under Review</h2>
-{% bibliography --query @*[note=Under Review] --sort-by year --order descending %}
+{% bibliography --query @*[note=Under Review] %}
 
 </div>
 
