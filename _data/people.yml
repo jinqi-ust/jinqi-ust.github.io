@@ -2,68 +2,67 @@ principal_investigator:
   - name: Jin Qi
     role: Associate Professor
     affiliation: Department of Industrial Engineering and Data Analytics
-    image: andreea.jpg
+
 
 Current_Students:
   - name: Yihua He
     role: PhD
     affiliation:
-    image: nathan.jpg
+
 
   - name: Tong Lu
     role: PhD
     affiliation:
-    image: nick.jpg
 
   - name: Yuhao Yan
     role: PhD
     affiliation:
-    image: nick.jpg
+
 
   - name: Anh Quan NGUYEN
     role: PhD
     affiliation:
-    image: nick.jpg
+
     
   - name: Anjun Zhang
     role: Mphil
     affiliation:
-    image: nick.jpg
+
     
   - name: Xinyi Zhang
     role: Mphil
     affiliation:
-    image: nick.jpg
+
 
 Graduated_Students:
   - name: Chen Yang
     role: PhD
-    affiliation:
-    image: michal.jpg
+    placement: Assistant Professor, Zhejiang University
+
     
   - name: Yuhan Liu
     role: PhD (Co-supervisor)
-    affiliation:
-    image: michal.jpg
+    placement: Postdoc, Hong Kong University of Science and Technology
+
     
   - name: Jun Wang
     role: PhD (Co-supervisor)
-    affiliation:
-    image: michal.jpg
+    placement: Assistant Professor, Zhejiang Wanli University
+
     
   - name: Guodong He
     role: PhD  (Co-supervisor)
-    affiliation:
-    image: michal.jpg
+    placement: Huawei 
+
     
   - name: Nana Li
     role: PhD  (Co-supervisor)
-    affiliation:
-    image: michal.jpg
+    placement: Data Scientist, XX Company
+ 
 
   - name: Ho Yin WAN
     role: Mphil  (Co-supervisor)
-    affiliation:
-    image: michal.jpg
+    
+
     
 
