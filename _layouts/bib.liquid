@@ -109,7 +109,12 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+        {% capture entrytype %}
+    <em>{{ entry.journal | replace: '\&', '&' }}</em>
+    {%- if entry.volume %}, {{ entry.volume }}{% endif -%}
+    {%- if entry.number %}({{ entry.number }}){% endif -%}
+    {%- if entry.pages %}, pp. {{ entry.pages | replace: '--', '-' }}{% endif -%}
+  {% endcapture %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
