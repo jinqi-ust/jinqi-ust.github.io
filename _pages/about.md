@@ -37,6 +37,9 @@ I am an Associate Professor in the Department of Industrial Engineering and Deci
 
 My work develops quantitative models and optimization methods for decision making under uncertainty, with a particular focus on healthcare and transportation systems. I am especially interested in designing robust and practically relevant approaches that can support better operational and managerial decisions in complex real-world environments. My research has also involved collaborations with several hospitals in Singapore and Hong Kong.
 
-I obtained my Ph.D. in Decision Sciences at National University of Singapore. Before joining HKUST in 2015, I was a Visiting Assistant Professor in the Department of Management Sciences at City University of Hong Kong.
+I obtained my Ph.D. in Decision Sciences at National University of Singapore, and received my Bachelor's and Master's degrees at Tsinghua University. Before joining HKUST in 2015, I was a Visiting Assistant Professor in the Department of Management Sciences at City University of Hong Kong.
+
+
+
 
 I am actively recruiting Ph.D. students and postdoctoral researchers. Prospective candidates with strong interests in optimization, healthcare operations, supply chain management, and data-driven decision-making are warmly encouraged to get in touch.
