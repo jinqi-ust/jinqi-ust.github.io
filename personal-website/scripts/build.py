@@ -109,16 +109,15 @@ shutil.copytree(ROOT / 'assets', ROOT / 'dist/assets', dirs_exist_ok=True)
 print(f'Built dist/index.html: {len(a["publications"])} papers, {len(p["students"])} students, {len(p["postdocs"])} current postdocs, {len(p["phd_alumni"])} PhD alumni, {len(p["mphil_alumni"])} MPhil alumni, {len(p["former_postdocs"])} former postdocs.')
 
 # Preserve the established links to academic sections after the redesign.
-for old_path, target in {
-    'publications': 'publications',
-    'grants': 'grants',
-    'people': 'group',
-    'teaching': 'teaching',
-    'awards': 'recognition',
-    'cv': 'about',
+for old_path, url in {
+    'publications': '../#publications',
+    'grants': '../#grants',
+    'people': '../#group',
+    'teaching': '../#teaching',
+    'awards': '../#recognition',
+    'cv': '../assets/CV_Jin_Qi.pdf',
 }.items():
     folder = ROOT / 'dist' / old_path
     folder.mkdir(exist_ok=True)
-    url = '../#' + target
     redirect = f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="0; url={url}"><title>Jin Qi — page moved</title></head><body><p>This page has moved. <a href="{url}">Continue to Jin Qi’s website</a>.</p></body></html>\n'
     (folder / 'index.html').write_text(redirect, encoding='utf-8')
