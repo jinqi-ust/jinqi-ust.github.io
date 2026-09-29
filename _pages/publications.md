@@ -21,5 +21,3 @@ nav_order: 2
 {% bibliography --query @*[note=Under Review] %}
 
 </div>
-
-
