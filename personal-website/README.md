@@ -10,7 +10,7 @@
 
 修改资料后提交到 `main`，仓库根目录的 **Deploy site** 工作流会生成网页、检查内容及资源，并将结果发布到现有 `gh-pages` 分支。GitHub Pages 的来源继续使用 **Deploy from a branch → gh-pages → / (root)**，无需切换设置。合并前的更新请求只构建检查并保存预览文件，不会修改正式主页。
 
-旧版 al-folio 的源文件与 Git 历史保留在仓库中。恢复旧版时，可以从新版上线前的提交恢复旧发布工作流。已有 `/publications/`、`/grants/`、`/people/`、`/teaching/`、`/awards/`、`/cv/` 地址会跳转到新版的对应内容。
+旧版 al-folio 的源文件与 Git 历史保留在仓库中。恢复旧版时，可以从新版上线前的提交恢复旧发布工作流。已有 `/publications/`、`/grants/`、`/people/`、`/teaching/`、`/awards/` 地址会跳转到新版的对应内容；`/cv/` 会直接打开 CV PDF。
 
 ## 更新内容
 
@@ -41,8 +41,8 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory dist
 - 个人身份、研究主题、联系方式和照片参照 [HKUST 院系主页](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22)。
 - 团队信息，以及论文题名、作者顺序、状态和课程年份，以用户提供的 `CV_Jin QI_202608.docx` 为准。名单及毕业去向标注为 August 2026，没有推测其后的变化。
 - 全部论文题名、作者、研究项目等存于 JSON，可继续人工修订；未编造论文 DOI、学生网站或照片。
-- `CV at HKUST` 指向原有公开院系主页，可在该页面点击 CV。院系 CV 下载链接带动态校验值，不能直接作为稳定外链。
-- 原始 DOCX 和完整 CV 文档未包含在项目中。
+- 主页的 `CV` 按钮直接打开 `assets/CV_Jin_Qi.pdf`，可在浏览器中查看或下载。PDF 使用与原 Word 同目录的 `CV_Jin QI_202608.pdf`，已核对其内容与 Word 一致，保留原排版。
+- 经用户授权，完整 CV PDF 已包含在项目中；原始 DOCX 未上传。更新 CV 时替换 `assets/CV_Jin_Qi.pdf`，网址保持不变。
 - 页面补充的 2005 年团体射击比赛奖项来自院系主页。
 
 院系网页与 CV 存在一些差异，已按 CV 整理：
