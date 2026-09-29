@@ -260,6 +260,8 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 <!--ts-->
 
+- [Jin Qi — Academic Website](#jin-qi--academic-website)
+  - [Previous theme documentation](#previous-theme-documentation)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
