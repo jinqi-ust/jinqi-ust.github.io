@@ -3,7 +3,6 @@ principal_investigator:
     role: Associate Professor
     affiliation: Department of Industrial Engineering and Data Analytics
 
-
 Current_Students:
   - name: Tong Lu
     role: PhD
@@ -12,62 +11,48 @@ Current_Students:
   - name: Yuhao Yan
     role: PhD
     affiliation:
-    
+
   - name: Anh Quan NGUYEN
     role: PhD
     affiliation:
-  
+
   - name: Anjun Zhang
     role: Mphil
     affiliation:
-    
+
   - name: Xinyi Zhang
     role: Mphil
     affiliation:
-
 
 Graduated_Students:
   - name: Yihua He
     role: PhD, 2026
     placement: Assistant Professor, Shanghai University of Finance and Economics
 
-    
   - name: Chen Yang
     role: PhD, 2025
     placement: Assistant Professor, Zhejiang University
 
-    
   - name: Yuhan Liu
     role: PhD, 2025
     placement: Postdoc, Hong Kong University of Science and Technology
 
-    
   - name: Jun Wang
     role: PhD, 2025
     placement: Assistant Professor, Zhejiang Wanli University
 
-    
   - name: Guodong He
     role: PhD, 2023
     placement: Huawei Technology
 
-    
   - name: Nana Li
     role: PhD, 2023
     placement: Chinese Academy of Science
-
 
   - name: Xiaojin Fu
     role: PhD, 2020
     placement: Huawei Technology
 
-
   - name: Hao Li
     role: PhD, 2019
     placement: Assistant Professor, University of Science and Technology of China
-
-
-    
-
-    
-

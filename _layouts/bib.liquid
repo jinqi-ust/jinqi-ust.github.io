@@ -1,7 +1,6 @@
 ---
 ---
 <div class="row">
-
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="col-sm-12">
     <!-- Title -->
@@ -109,7 +108,7 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-        {% capture entrytype %}
+      {% capture entrytype %}
     <em>{{ entry.journal | replace: '\&', '&' }}</em>
     {%- if entry.volume %}, {{ entry.volume }}{% endif -%}
     {%- if entry.number %}({{ entry.number }}){% endif -%}
@@ -145,7 +144,6 @@
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-
 
     <!-- Links/Buttons -->
     <div class="links">
@@ -341,7 +339,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-        {% endhighlight %}
+      {% endhighlight %}
       </div>
     {% endif %}
 

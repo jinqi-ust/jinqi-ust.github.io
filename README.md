@@ -1,3 +1,13 @@
+# Jin Qi — Academic Website
+
+Website: **https://jinqi-ust.github.io/**
+
+The current personal website is built from [`personal-website/`](personal-website/README.md) using Python. Edit its JSON data files and HTML template, then push to `main`; the **Deploy site** workflow builds and checks the pages and publishes to the existing `gh-pages` branch. GitHub Pages remains configured to deploy from that branch.
+
+The previous al-folio source remains below and elsewhere in this repository for reference. The existing publications, grants, people, teaching, awards, and CV URLs redirect to the corresponding sections of the new homepage. The full CV document is not part of the new website.
+
+## Previous theme documentation
+
 # al-folio
 
 <div align="center">

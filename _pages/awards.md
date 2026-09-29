@@ -26,4 +26,3 @@ description:
 - **Team Champion in the National College Students Service Rifle Tournament** (member), 2005
 
 - **First Prize**, National Mathematics Olympics Contest, China, 2002
-

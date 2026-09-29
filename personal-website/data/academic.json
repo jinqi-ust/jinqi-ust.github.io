@@ -1,0 +1,476 @@
+{
+  "updated": "September 2026",
+  "publications": [
+    {
+      "authors": "Yuhan Liu, Jin Qi, Hai Yang, Yili Tang",
+      "title": "The passenger waiting behavior with sunk waiting time: an empirical study in ride-sourcing market",
+      "citation": "accepted by Production and Operations Management",
+      "kind": "journal",
+      "student_postdoc_authors": ["Yuhan Liu"],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Shengnan Shu, Zhou Xu, Jin Qi",
+      "title": "Robust service network design under travel time uncertainty: Formulations and exact solutions",
+      "citation": "accepted by INFORMS Journal on Computing",
+      "kind": "journal",
+      "student_postdoc_authors": ["Shengnan Shu"],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Daniel Zhuoyu Long, Jin Qi, Yu Sun, Aiqi Zhang",
+      "title": "Distributionally robust group testing with correlation information",
+      "citation": "Management Science, articles in advance",
+      "kind": "journal",
+      "student_postdoc_authors": ["Yu Sun", "Aiqi Zhang"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Hao Li, Tianzhuang Xu, Jin Qi, Ying-Ju Chen",
+      "title": "Analyzing network formation using big data analytics: A study of degree distribution, clustering coefficient, diameter, and assortativity",
+      "citation": "Management Science, articles in advance",
+      "kind": "journal",
+      "student_postdoc_authors": ["Hao Li", "Tianzhuang Xu"],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Hongqiao Chen, Yihua He, Jin Qi, Lianmin Zhang",
+      "title": "Robust pricing with asymmetric distributional information in valuation",
+      "citation": "Production and Operations Management, 35(5): 1901-1922, 2026",
+      "kind": "journal",
+      "student_postdoc_authors": ["Yihua He"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Chi Xie, Zheng Cui, Daniel Zhuoyu Long, Jin Qi",
+      "title": "Distributionally robust optimization for minimizing price fluctuations in quota system",
+      "citation": "Transportation Research Part E, 193, 103812, 2025",
+      "kind": "journal",
+      "student_postdoc_authors": ["Chi Xie", "Zheng Cui"],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Xiaojin Fu, Jin Qi, Chen Yang, Han Ye",
+      "title": "Elective surgery sequencing and scheduling under uncertainty",
+      "citation": "Manufacturing and Service Operations Management, 26(3): 893-910, 2024",
+      "kind": "journal",
+      "student_postdoc_authors": ["Xiaojin Fu", "Chen Yang"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Daniel Zhuoyu Long, Jin Qi, Aiqi Zhang",
+      "title": "Supermodularity in two-stage distributionally robust optimization",
+      "citation": "Management Science, 70(3): 1394-1409, 2024",
+      "kind": "journal",
+      "student_postdoc_authors": ["Aiqi Zhang"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Zheng Cui, Daniel Zhuoyu Long, Jin Qi, Lianmin Zhang",
+      "title": "The inventory routing problem under uncertainty",
+      "citation": "Operations Research, 71(1): 378-395, 2023",
+      "kind": "journal",
+      "student_postdoc_authors": ["Zheng Cui"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Xin Chen, Daniel Zhuoyu Long, Jin Qi",
+      "title": "Preservation of supermodularity in parametric optimization: Necessary and sufficient conditions on constraint structures",
+      "citation": "Operations Research, 69(1): 1-12, 2021",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Jin Qi",
+      "title": "Mitigating delays and unfairness in appointment systems",
+      "citation": "Management Science, 63(2): 566-583, 2017",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Jin Qi, Melvyn Sim, Defeng Sun, Xiaoming Yuan",
+      "title": "Preferences for travel time under risk and ambiguity: Implications in path selection and network equilibrium",
+      "citation": "Transportation Research Part B, 94: 264-284, 2016",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Patrick Jaillet, Jin Qi, Melvyn Sim",
+      "title": "Routing optimization under uncertainty",
+      "citation": "Operations Research, 64(1): 186-200, 2016",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Fanwen Meng, Jin Qi, Meilin Zhang, James Ang, Singfat Chu, Melvyn Sim",
+      "title": "A robust optimization model for managing elective admission in hospital",
+      "citation": "Operations Research, 63(6): 1452-1467, 2015",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Nicholas Hall, Daniel Zhuoyu Long, Jin Qi, Melvyn Sim",
+      "title": "Managing underperformance risk in project portfolio selection",
+      "citation": "Operations Research, 63(3): 660-675, 2015",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Daniel Zhuoyu Long, Jin Qi",
+      "title": "Distributionally robust discrete optimization with Entropic Value-at-Risk",
+      "citation": "Operations Research Letters, 42(8): 532-538, 2014",
+      "kind": "journal",
+      "student_postdoc_authors": [],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Chen Yang, Ziqiang Zhang, Bo Cao, Zheng Cui, Bin Hu, Tong Li, Daniel Zhuoyu Long, Jin Qi, Feng Wang, Ruohan Zhan",
+      "title": "Fragility Index: A new approach for binary classification",
+      "citation": "Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2918-2929, 2023",
+      "kind": "conference",
+      "student_postdoc_authors": ["Chen Yang", "Zheng Cui"],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Zheng Cui, Daniel Zhuoyu Long, Jin Qi, Chen Yang, Ruohan Zhan",
+      "title": "Fragility-aware Classification for Understanding Risk and Improving Generalization",
+      "citation": "under major revision at Management Science",
+      "kind": "working",
+      "student_postdoc_authors": ["Zheng Cui", "Chen Yang"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Yue Lin, Daniel Zhuoyu Long, Viet Anh Nguyen, Jin Qi",
+      "title": "Asymptotically optimal distributionally robust solutions through forecasting and operations decentralization",
+      "citation": "under major revision at Operations Research",
+      "kind": "working",
+      "student_postdoc_authors": ["Yue Lin"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Nana Li, Shumin Ma, Jin Qi, Xiangtong Qi",
+      "title": "Strategic analysis of travel restriction policies during a pandemic",
+      "citation": "under major revision at Manufacturing and Service Operations Management",
+      "kind": "working",
+      "student_postdoc_authors": ["Nana Li"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Guillermo Gallego, Yihua He, Mengqian Lu, Jin Qi",
+      "title": "A cost-agnostic model for infrastructure planning in sustainable water development",
+      "citation": "under major revision at Naval Research Logistics",
+      "kind": "working",
+      "student_postdoc_authors": ["Yihua He"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Jin Qi, Yaozhong Wu, Chi Xie",
+      "title": "Fairness and competition in supply chain",
+      "citation": "under review",
+      "kind": "working",
+      "student_postdoc_authors": ["Chi Xie"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Nicholas Hall, Daniel Zhuoyu Long, Jin Qi, Yuhao Yan",
+      "title": "Project monitoring and control systems",
+      "citation": "under review",
+      "kind": "working",
+      "student_postdoc_authors": ["Yuhao Yan"],
+      "alphabetical_order": true
+    },
+    {
+      "authors": "Yu Wang, Jin Qi, Jiafu Tang, Yu Zhang",
+      "title": "Surgery scheduling under downstream ICU risks: A feature-driven robust optimization approach",
+      "citation": "under review",
+      "kind": "working",
+      "student_postdoc_authors": [],
+      "alphabetical_order": false
+    },
+    {
+      "authors": "Jin Qi, Chen Yang",
+      "title": "Connecting extreme-point generation and decision rules in two-stage distributionally robust optimization",
+      "citation": "under review",
+      "kind": "working",
+      "student_postdoc_authors": ["Chen Yang"],
+      "alphabetical_order": true
+    }
+  ],
+  "media": [
+    {
+      "authors": "Jin Qi",
+      "title": "Go with the flow to fix health woes",
+      "citation": "The Standard (HK), March 2019"
+    }
+  ],
+  "grants": [
+    {
+      "title": "Climate-Adaptive Healthcare Operations: Integrating Artificial Intelligence and Robust Optimization for Urban Resilience",
+      "funder": "The Otto Poon Center for Climate Resilience and Sustainability, HKUST",
+      "role": "PI",
+      "period": "2026–2028"
+    },
+    {
+      "title": "Enhancing classification robustness through satisficing framework",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2026–2028"
+    },
+    {
+      "title": "Robust Optimization",
+      "funder": "Excellent Young Scholars, National Natural Science Foundation of China",
+      "role": "PI",
+      "period": "2025–2027"
+    },
+    {
+      "title": "Project monitoring and control under uncertainty",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2025–2027"
+    },
+    {
+      "title": "Two-stage distributionally robust optimization with binary decisions",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2024–2026"
+    },
+    {
+      "title": "Distributionally robust auction design",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2022–2025"
+    },
+    {
+      "title": "Data-driven task assignment under uncertainty",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2020–2022"
+    },
+    {
+      "title": "Improving healthcare delivery service in Hong Kong",
+      "funder": "Seed Fund Program, Office of the Vice-President for Research and Development, Hong Kong University of Science and Technology",
+      "role": "PI",
+      "period": "2019–2022"
+    },
+    {
+      "title": "Dynamic appointment scheduling with waiting time targets",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2019–2021"
+    },
+    {
+      "title": "Distributionally robust and risk-averse inventory routing under demand uncertainty",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2018–2020"
+    },
+    {
+      "title": "Data-driven operating room scheduling in public hospitals",
+      "funder": "Early Career Scheme, Hong Kong Research Grants Council",
+      "role": "PI",
+      "period": "2017–2020"
+    },
+    {
+      "title": "Can fairness survive in competition in supply chain?",
+      "funder": "School-based Initiatives, Hong Kong University of Science and Technology",
+      "role": "PI",
+      "period": "2016–2021"
+    },
+    {
+      "title": "Start-up Fund",
+      "funder": "Hong Kong University of Science and Technology",
+      "role": "PI",
+      "period": "2015–2023"
+    },
+    {
+      "title": "Algorithmic bias, economic efficiency, and social welfare",
+      "funder": "Collaborative Research Fund, Hong Kong Research Grants Council",
+      "role": "Co-PI",
+      "period": "2025–2028"
+    },
+    {
+      "title": "Enhancing Hong Kong’s role in sustainable supply chain finance via technology transformation",
+      "funder": "RGC Theme-based Research Scheme",
+      "role": "Co-PI",
+      "period": "2024–2029"
+    },
+    {
+      "title": "Robust infrastructure planning for sustainable water development in the Greater Bay Area under demand uncertainty and climate variability",
+      "funder": "Collaborative Research Fund, Hong Kong Research Grants Council",
+      "role": "Co-PI",
+      "period": "2022–2024"
+    },
+    {
+      "title": "Mitigation strategies and operations in confronting novel infectious disease",
+      "funder": "Collaborative Research Fund, Hong Kong Research Grants Council",
+      "role": "Co-PI",
+      "period": "2021–2024"
+    },
+    {
+      "title": "Assortment and pricing optimization with customer-centric fairness",
+      "funder": "General Research Fund, Hong Kong Research Grants Council",
+      "role": "Co-I",
+      "period": "2025–2027"
+    },
+    {
+      "title": "The role of supermodularity in robust optimization: Theory and its application in supply chain management",
+      "funder": "General Program, National Natural Science Foundation of China",
+      "role": "Co-I",
+      "period": "2020–2023"
+    },
+    {
+      "title": "Delivering 21st century healthcare in Hong Kong – Building a quality-and-efficiency driven system",
+      "funder": "Theme-Based Research Project, Hong Kong Research Grants Council",
+      "role": "Collaborator",
+      "period": "2014–2019"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GH2506",
+      "name": "Emerging Technologies for Global Health (Part 3)",
+      "period": "Spring 2026"
+    },
+    {
+      "code": "IEDA3010",
+      "name": "Prescriptive Analytics",
+      "period": "2018–2026"
+    },
+    {
+      "code": "IEDA3230",
+      "name": "Engineering Economics and Accounting",
+      "period": "2022–2026"
+    },
+    {
+      "code": "EEMT5510",
+      "name": "Engineering Economics and Cost Management",
+      "period": "2021–2026"
+    },
+    {
+      "code": "IEDA3901",
+      "name": "Transportation Systems",
+      "period": "2016–2019, 2021–2022"
+    },
+    {
+      "code": "IELM2410",
+      "name": "Logistics and Freight Transportation Operations",
+      "period": "2017"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Finalist, POMS College of Healthcare Operations Management Best Paper Award",
+      "year": "2026"
+    },
+    {
+      "title": "Honoree, HKUST Faculty Recognition Ceremony",
+      "year": "2025"
+    },
+    {
+      "title": "Gold Medals with Congratulations of the Jury (Gold +), 50th International Exhibition of Inventions Geneva (IEIG)",
+      "year": "2025"
+    },
+    {
+      "title": "POMS-HK Meritorious Service Award",
+      "year": "2025"
+    },
+    {
+      "title": "Excellent Young Scholars, NSFC",
+      "year": "2024"
+    },
+    {
+      "title": "MSOM Meritorious Service Award",
+      "year": "2023"
+    },
+    {
+      "title": "First Prize, CSAMSE Best Paper Award",
+      "year": "2022"
+    },
+    {
+      "title": "Finalist, MSOM Best Operations Management Paper in Operations Research",
+      "year": "2021"
+    },
+    {
+      "title": "Second Place, POMS-HK Best Student Paper Competition",
+      "year": "2014, 2020"
+    },
+    {
+      "title": "President’s Graduate Fellowship, National University of Singapore",
+      "year": "2012"
+    },
+    {
+      "title": "Outstanding Graduate, Tsinghua University",
+      "year": "2006"
+    },
+    {
+      "title": "Outstanding Student Leader, Tsinghua University",
+      "year": "2006"
+    },
+    {
+      "title": "Team Champion, National College Students Service Rifle Tournament (team member)",
+      "year": "2005"
+    },
+    {
+      "title": "First Prize, National Mathematics Olympiad, China",
+      "year": "2002"
+    }
+  ],
+  "education": [
+    {
+      "date": "2014",
+      "title": "PhD in Management Science",
+      "detail": "National University of Singapore"
+    },
+    {
+      "date": "2010",
+      "title": "MSc in Management Science and Engineering",
+      "detail": "Tsinghua University"
+    },
+    {
+      "date": "2006",
+      "title": "BEng in Mechanical Engineering and Automation",
+      "detail": "Tsinghua University · With honours"
+    }
+  ],
+  "appointments": [
+    {
+      "date": "2021–present",
+      "title": "Associate Professor",
+      "detail": "Industrial Engineering and Decision Analytics, HKUST"
+    },
+    {
+      "date": "2015–2021",
+      "title": "Assistant Professor",
+      "detail": "Industrial Engineering and Decision Analytics, HKUST"
+    },
+    {
+      "date": "2014–2015",
+      "title": "Research Assistant Professor",
+      "detail": "Decision Analytics and Operations, City University of Hong Kong"
+    }
+  ],
+  "affiliations": [
+    {
+      "date": "2020–present",
+      "title": "Associate Director, Center for Aging Science",
+      "detail": "HKUST"
+    },
+    {
+      "date": "2024–present",
+      "title": "Faculty Associate, Li & Fung Supply Chain Institute",
+      "detail": "HKUST"
+    },
+    {
+      "date": "2025–present",
+      "title": "Faculty Associate, Otto Poon Center for Climate Resilience and Sustainability",
+      "detail": "HKUST"
+    }
+  ],
+  "as_of": "August 2026"
+}

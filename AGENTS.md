@@ -1,3 +1,16 @@
+# Current personal website
+
+The public homepage is now a standalone Python-built website in `personal-website/`. The remaining al-folio files are preserved as legacy source; its Docker/Jekyll instructions below apply when changing that legacy site.
+
+For the current website, build and validate with:
+
+```sh
+python3 personal-website/scripts/build.py
+python3 personal-website/scripts/check.py
+```
+
+Use Prettier for HTML, CSS, JavaScript, JSON, YAML, and Markdown changes. Preview `personal-website/dist/` with a static HTTP server and check desktop and mobile layouts. Generated `dist/` files are ignored; editable assets live in `personal-website/assets/`. The root `deploy.yml` workflow is the only publisher and uses the existing `gh-pages` branch.
+
 # Agent Guidelines for al-folio
 
 A simple, clean, and responsive Jekyll theme for academics.
