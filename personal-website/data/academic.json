@@ -1,6 +1,14 @@
 {
-  "updated": "September 2026",
+  "updated": "November 2026",
   "publications": [
+    {
+      "authors": "Zheng Cui, Daniel Zhuoyu Long, Jin Qi, Chen Yang, Ruohan Zhan",
+      "title": "Fragility-aware Classification for Understanding Risk and Improving Generalization",
+      "citation": "accepted by Management Science",
+      "kind": "journal",
+      "student_postdoc_authors": ["Zheng Cui", "Chen Yang"],
+      "alphabetical_order": true
+    },
     {
       "authors": "Yuhan Liu, Jin Qi, Hai Yang, Yili Tang",
       "title": "The passenger waiting behavior with sunk waiting time: an empirical study in ride-sourcing market",
@@ -136,14 +144,6 @@
       "kind": "conference",
       "student_postdoc_authors": ["Chen Yang", "Zheng Cui"],
       "alphabetical_order": false
-    },
-    {
-      "authors": "Zheng Cui, Daniel Zhuoyu Long, Jin Qi, Chen Yang, Ruohan Zhan",
-      "title": "Fragility-aware Classification for Understanding Risk and Improving Generalization",
-      "citation": "under major revision at Management Science",
-      "kind": "working",
-      "student_postdoc_authors": ["Zheng Cui", "Chen Yang"],
-      "alphabetical_order": true
     },
     {
       "authors": "Yue Lin, Daniel Zhuoyu Long, Viet Anh Nguyen, Jin Qi",
