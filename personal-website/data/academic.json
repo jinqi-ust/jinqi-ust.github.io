@@ -11,11 +11,12 @@
     },
     {
       "authors": "Yuhan Liu, Jin Qi, Hai Yang, Yili Tang",
-      "title": "The passenger waiting behavior with sunk waiting time: an empirical study in ride-sourcing market",
-      "citation": "accepted by Production and Operations Management",
+      "title": "Passenger waiting behavior with sunk waiting time: An empirical study in the ride-sourcing market",
+      "citation": "Production and Operations Management, OnlineFirst, 2026",
       "kind": "journal",
       "student_postdoc_authors": ["Yuhan Liu"],
-      "alphabetical_order": false
+      "alphabetical_order": false,
+      "doi": "10.1177/10591478261488817"
     },
     {
       "authors": "Shengnan Shu, Zhou Xu, Jin Qi",
@@ -28,18 +29,22 @@
     {
       "authors": "Daniel Zhuoyu Long, Jin Qi, Yu Sun, Aiqi Zhang",
       "title": "Distributionally robust group testing with correlation information",
-      "citation": "Management Science, articles in advance",
+      "citation": "Management Science, 72(12): 10513-10531, 2026",
       "kind": "journal",
       "student_postdoc_authors": ["Yu Sun", "Aiqi Zhang"],
-      "alphabetical_order": true
+      "alphabetical_order": true,
+      "doi": "10.1287/mnsc.2023.04308",
+      "citation_source": "https://ideas.repec.org/a/inm/ormnsc/v72y2026i12p10513-10531.html"
     },
     {
       "authors": "Hao Li, Tianzhuang Xu, Jin Qi, Ying-Ju Chen",
       "title": "Analyzing network formation using big data analytics: A study of degree distribution, clustering coefficient, diameter, and assortativity",
-      "citation": "Management Science, articles in advance",
+      "citation": "Management Science, 72(12): 10359-10380, 2026",
       "kind": "journal",
       "student_postdoc_authors": ["Hao Li", "Tianzhuang Xu"],
-      "alphabetical_order": false
+      "alphabetical_order": false,
+      "doi": "10.1287/mnsc.2023.00475",
+      "citation_source": "https://ideas.repec.org/a/inm/ormnsc/v72y2026i12p10359-10380.html"
     },
     {
       "authors": "Hongqiao Chen, Yihua He, Jin Qi, Lianmin Zhang",
