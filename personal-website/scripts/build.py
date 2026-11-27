@@ -48,7 +48,7 @@ publications += paper_list(published[:7])
 publications += disclosure(f'More publications ({len(published)-7})', paper_list(published[7:], 7))
 publications += disclosure(f'Working papers & manuscripts under review ({len(working)})', paper_list(working))
 publications += disclosure('Media', paper_list(a['media']))
-publications += f'<p class="section-note" style="margin-top:20px">Publication details and manuscript statuses follow the {e(a["as_of"])} CV.</p>'
+publications += f'<p class="section-note" style="margin-top:20px">Publication details follow the {e(a["as_of"])} CV, with subsequent status updates.</p>'
 
 def people_cards(people, extra=''):
     output = f'<div class="people-grid {extra}">'
