@@ -37,8 +37,7 @@ def paper_list(items, offset=0):
             author_parts.append(author)
         authors = ', '.join(author_parts)
         alphabetical = '<sup class="alphabetical-marker" title="Alphabetical order, equal contribution" aria-label="Alphabetical order, equal contribution">†</sup>' if paper.get('alphabetical_order') else ''
-        doi_link = f' · <a href="https://doi.org/{e(paper["doi"])}">DOI ↗</a>' if paper.get("doi") else ""
-        output += f'<li class="publication"><span class="paper-number"><span aria-hidden="true">{i:02d}</span>{alphabetical}</span><div><h3>{e(paper["title"])}</h3><p class="authors">{authors}</p><p class="venue">{e(paper["citation"])}{doi_link}</p></div></li>'
+        output += f'<li class="publication"><span class="paper-number"><span aria-hidden="true">{i:02d}</span>{alphabetical}</span><div><h3>{e(paper["title"])}</h3><p class="authors">{authors}</p><p class="venue">{e(paper["citation"])}</p></div></li>'
     return output + '</ol>'
 
 published = [x for x in a['publications'] if x['kind'] != 'working']
